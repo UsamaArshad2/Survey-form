@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-image: url(https://images.alphacoders.com/117/1173574.jpg);
+    background-color:blue;
+    background-blend-mode: darken;
+    color:white;
+      font-size:20px;
+    }
+    #number {
+    width:100px;}
+    
+    #title{
+    font-size:50px;
+    text-decoration:underline;}
+    
+    #description{
+    font-size: 30px;
+    font-weight: bold;}
+    
+    #radio-label{
+    font-weight: bold;
+    font-size:25px;}
+    
+    #checkbox-id{
+    font-weight: bold;
+    font-size:25px;}
